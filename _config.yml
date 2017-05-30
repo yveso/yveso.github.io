@@ -1,1 +1,6 @@
+repository: yveso/yveso.github.io
 theme: jekyll-theme-tactile
+author: Yves Oehlschläger
+title: Yves schreibt
+description: Ein Blog über dies und das und jenes
+excerpt_separator: <!--more-->

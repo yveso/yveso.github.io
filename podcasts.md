@@ -121,7 +121,11 @@ Wer immer noch gute Laune hat, hört Alternativlos von Frank Rieger und Fefe. Le
 
 ### Jung & Naiv - Politik für Desinteressierte
 
+<<<<<<< HEAD
 Mittlerweile nutzt Tilo Jung diesen Kanal um hauptsächlich die Regierungspressekonferenz zu dokumentieren. Dieses Engagement ist löblich, aber es fehlt mir an Zeit (und Lust) diese zu verfolgen. Es gibt aber weiterhin noch die "alten" Interviews, in denen Tilo Jung in die Rolle des jungen und naiven Fragestellers schlüpft. Diese sind sehr empfehlenswert.
+=======
+Mittlerweile nutzt Tilo Jung diesen Kanal um hauptsächlich die Bundespressekonferenz zu dokumentieren. Dieses Engagement ist löblich, aber es fehlt mir an Zeit (und Lust) diese zu verfolgen. Es gibt aber weiterhin noch die "alten" Interviews, in denen Tilo Jung in die Rolle des jungen und naiven Fragestellers schlüpft. Diese sind sehr empfehlenswert.
+>>>>>>> 3bfa5f8ffb8c6e3a83e231fa5ab6bd0cb05f04d5
 
 * Sprache: Deutsch
 * Seite: [http://www.jungundnaiv-podcast.de](http://www.jungundnaiv-podcast.de)

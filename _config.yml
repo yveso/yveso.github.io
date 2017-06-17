@@ -4,3 +4,7 @@ author: Yves Oehlschläger
 title: Yves schreibt
 description: Ein Blog über dies und das und jenes
 excerpt_separator: <!--more-->
+gems:
+  - jekyll-feed
+feed:
+  path: atom.xml

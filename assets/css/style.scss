@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.my-nav {
+}
+
+.my-nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.my-nav li {
+    list-style-type: none;
+    flex: 1 1 auto;
+}
+
+.about-main {
+    display: flex;
+
+}
+
+.about-main div {
+    padding: 10px 20px;
+}

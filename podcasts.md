@@ -5,7 +5,23 @@ title: Podcast Empfehlungen
 
 # Podcast Empfehlungen
 
-## Coding
+Eine kleine Liste empfehlenswerter Podcasts. Diese Auflistung erhebt keinerlei Anspruch auf Vollständigkeit, es gibt noch zig andere tolle Produktionen.
+
+Themen sind:
+
+* [Coding](#coding)
+* [Politik](#politik)
+* [Unterhaltung](#unterhaltung)
+* [Interviews](#interviews)
+* [Wissenschaft](#wissenschaft)
+* [Wissen](#wissen)
+* [Geschichte](#geschichte)
+* [Features DE](#features_de)
+* [Features USA](#features_us)
+* [Sport](#sport)
+* [Sonstiges](#sonstiges)
+
+## <a name="coding"></a>Coding
 
 ### Hanselminutes
 
@@ -95,7 +111,7 @@ Ein weiterer Python Podcast, dieser ist von Tobias Macey. Verglichen mit Talk Py
 * Feed: [http://podcastinit.podbean.com/feed/](http://podcastinit.podbean.com/feed/)
 
 
-## Politik
+## <a name="politik"></a>Politik
 
 ### Lage der Nation
 Philip Banse und Ulf Buermeyer diskutieren die politischen Ereignisse der Woche. Dabei werden die Themen erst formal vorgetragen, dann wird meist versucht sie einzuordnen. Klare Hörempfehlung.
@@ -144,7 +160,7 @@ Wöchentliche Sendung von detektor.fm, meist mit Gästen aus dem fragdenstaat.de
 * Seite: [https://detektor.fm/gesellschaft](https://detektor.fm/gesellschaft)
 * Feed: [http://feeds.feedburner.com/detektorfm_frag-den-staat](http://feeds.feedburner.com/detektorfm_frag-den-staat)
 
-## Unterhaltung
+## <a name="unterhaltung"></a>Unterhaltung
 
 ### Fest & Flauschig
 
@@ -186,7 +202,7 @@ Ein Podcast wie für mich gemacht. Die drei Ü-30-er Christian Gürnth, Dominik 
 * Seite: [https://www.radionukular.de/](https://www.radionukular.de/)
 * Feed: [http://www.radionukular.de/feed/nukularaacfeed/](http://www.radionukular.de/feed/nukularaacfeed/)
 
-## Interviews
+## <a name="interviews"></a>Interviews
 
 ### SWR1 Leute
 
@@ -212,7 +228,7 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Seite: [http://viertausendhertz.de/durch-die-gegend/](http://viertausendhertz.de/durch-die-gegend/)
 * Feed: [http://viertausendhertz.de/feed/podcast/durch-die-gegend](http://viertausendhertz.de/feed/podcast/durch-die-gegend)
 
-## Wissenschaft
+## <a name="wissenschaft"></a>Wissenschaft
 
 ### Methodisch inkorrekt
 
@@ -234,7 +250,7 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 
 ## Wissen
 
-### Bayern 2 radioWissen
+### <a name="wissen"></a>Bayern 2 radioWissen
 
 * Sprache: Deutsch
 * Seite: [http://www.br-online.de/podcast/mp3-download/bayern2/mp3-download-podcast-radiowissen.shtml](http://www.br-online.de/podcast/mp3-download/bayern2/mp3-download-podcast-radiowissen.shtml)
@@ -246,7 +262,7 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Seite: [http://www.swr.de/swr2/wissen/index.html](http://www.swr.de/swr2/wissen/index.html)
 * Feed: [http://www1.swr.de/podcast/xml/swr2/wissen.xml](http://www1.swr.de/podcast/xml/swr2/wissen.xml)
 
-## Geschichte
+## <a name="geschichte"></a>Geschichte
 
 ### Eine Stunde History
 
@@ -268,7 +284,7 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Feed: [http://www1.wdr.de/radio/podcasts/wdr5/zeitzeichen274.podcast](http://www1.wdr.de/radio/podcasts/wdr5/zeitzeichen274.podcast)
 
 
-## Features DE
+## <a name="features_de"></a>Features DE
 
 ### Systemfehler
 
@@ -289,7 +305,7 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Feed: [feed://www.deutschlandfunknova.de/podcast/einhundert](feed://www.deutschlandfunknova.de/podcast/einhundert)
 
 
-## Features USA
+## <a name="features_us"></a>Features USA
 
 ### Serial
 
@@ -321,27 +337,8 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Seite: [http://99percentinvisible.org](http://99percentinvisible.org)
 * Feed: [http://feeds.99percentinvisible.org/99percentinvisible](http://feeds.99percentinvisible.org/99percentinvisible)
 
-## Sonstiges
 
-### Was mit Medien
-
-* Sprache: Deutsch
-* Seite: [https://www.deutschlandfunknova.de/eine-stunde-medien](https://www.deutschlandfunknova.de/eine-stunde-medien)
-* Feed: [feed://www.deutschlandfunknova.de/podcast/eine-stunde-medien](feed://www.deutschlandfunknova.de/podcast/eine-stunde-medien)
-
-### Frequenz 4000
-
-* Sprache: Deutsch
-* Seite: [http://viertausendhertz.de/frequenz-4000/](http://viertausendhertz.de/frequenz-4000/)
-* Feed: [http://viertausendhertz.de/feed/podcast/frequenz-4000](http://viertausendhertz.de/feed/podcast/frequenz-4000)
-
-### Chaosradio
-
-* Sprache: Deutsch
-* Seite: [https://chaosradio.ccc.de/chaosradio.html](https://chaosradio.ccc.de/chaosradio.html)
-* Feed: [https://chaosradio.ccc.de/chaosradio-latest.rss](https://chaosradio.ccc.de/chaosradio-latest.rss)
-
-## Sport
+## <a name="sport"></a>Sport
 
 ### Zeiglers wunderbare Welt des Fußballs
 
@@ -374,3 +371,24 @@ Einer der Interview Podcasts des Podcastlabels Viertausendhertz. In diesem werde
 * Sprache: Deutsch
 * Seite: [http://fokus-fussball.de](http://fokus-fussball.de)
 * Feed: [http://fokus-fussball.de/feed/mp3/](http://fokus-fussball.de/feed/mp3/)
+
+
+## <a name="sonstiges"></a>Sonstiges
+
+### Was mit Medien
+
+* Sprache: Deutsch
+* Seite: [https://www.deutschlandfunknova.de/eine-stunde-medien](https://www.deutschlandfunknova.de/eine-stunde-medien)
+* Feed: [feed://www.deutschlandfunknova.de/podcast/eine-stunde-medien](feed://www.deutschlandfunknova.de/podcast/eine-stunde-medien)
+
+### Frequenz 4000
+
+* Sprache: Deutsch
+* Seite: [http://viertausendhertz.de/frequenz-4000/](http://viertausendhertz.de/frequenz-4000/)
+* Feed: [http://viertausendhertz.de/feed/podcast/frequenz-4000](http://viertausendhertz.de/feed/podcast/frequenz-4000)
+
+### Chaosradio
+
+* Sprache: Deutsch
+* Seite: [https://chaosradio.ccc.de/chaosradio.html](https://chaosradio.ccc.de/chaosradio.html)
+* Feed: [https://chaosradio.ccc.de/chaosradio-latest.rss](https://chaosradio.ccc.de/chaosradio-latest.rss)

@@ -7,7 +7,7 @@ title: 'Lesestunde: Doing Math with Python, Teil 1'
 
 Mathe macht Spaß. Python macht Spaß. Ein Buch mit dem Titel **Doing Math with Python** muss demnach eine niemals versiegende Quelle der Freude sein. Um herauszufinden ob dem so ist, werde ich dieses Buch in der soeben gestarteten, aber jetzt schon unglaublich beliebten, Reihe *Lesestunde* durcharbeiten.
 
-Autor des Buches ist *Amit Saha*, erschienen ist es 2015 bei *No Starch Press*. Die Website beim Verlag findet sich [hier](https://www.nostarch.com/doingmathwithpython), die begleitende Website zum Buch (incl. Code) [hier](https://doingmathwithpython.github.io/).
+Autor des Buches ist *Amit Saha*, erschienen ist es 2015 bei *No Starch Press*. Die Website beim Verlag findet sich [hier](https://www.nostarch.com/doingmathwithpython), die begleitende Website zum Buch (inklusive Code) [hier](https://doingmathwithpython.github.io/).
 
 Das Buch benutzt -glücklicherweise- Python 3 und setzt Grundkenntnisse voraus, Zitat: "the absolute basics".
 <!--more-->

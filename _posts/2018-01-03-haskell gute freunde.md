@@ -69,8 +69,8 @@ $$
 \begin{equation}
    n! =
    \begin{cases}
-     1 & \text{f"ur } n = 0 \\
-     n*(n-1)! & \text{sonst }
+     1 & \text{wenn } n = 0 \\
+     n*(n-1)! & \text{sonst}
    \end{cases}
 \end{equation}
 $$

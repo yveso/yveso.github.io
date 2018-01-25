@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Gaußsche Summenlformel
+title: Die Gaußsche Summenformel
 ---
 
 Meine Zeiten als Student der Mathematik liegen nun schon etwas länger zurück. Vieles des damals Gelernten müsste ich heute nachschlagen. Doch eine Sache hat sich in mein Hirn eingebrannt: der **kleine Gauß** (a.k.a. die Gaußsche Summenformel). Dabei handelt es sich um eine kleine, feine Formel, mit welcher man sehr einfach die Summe aller natürlichen Zahlen (das sind die positiven, ganzen Zahlen, also 1, 2, 3, usw...) von `1` bis zu einer Zahl `n` bestimmen kann.

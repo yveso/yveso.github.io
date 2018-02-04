@@ -22,7 +22,7 @@ Die Formel an sich ist nicht übermäßig kompliziert oder komplex. Aber sie ist
 Ich möchte nicht mit der Formel selbst beginnen, versetzen wir uns lieber in die Lage des kleinen Carl Friedrich und suchen sie selbst. Um ein tatsächliches Zusammenzählen im Kopf auszuschließen, wollen wir die Summe der natürlichen Zahlen von Eins bis Eintausend ermitteln (falls du das wirklich im Kopf addieren willst, dann nun ja). Unsere Aufgabe lautet also wie folgt:
 
 ```
-1 + 2 + 3 + 4 + ... + 997 + 998 + 999 + 100
+1 + 2 + 3 + 4 + ... + 997 + 998 + 999 + 1000
 ```
 
 Der Trick zur Entdeckung unserer Formel ist, dass wir diesen Strang in der Mitte teilen. Wir betrachten die Summe von `1` bis `500` und die Summe von `501` bis `1000`. Da die Reihenfolge bei der Addition keine Rolle spielt (`1 + 2 = 2 + 1`), kehren wir diese bei der zweiten Summe um.
@@ -106,7 +106,7 @@ Heureka! Das ist ja die gleiche Formel wie bei der geraden Grenze. Wie schön!
 
 ## Aber Teilen kann gefährlich sein!
 
-Die natürlichen Zahlen sind in der Addition abgeschlossen. Das heißt, wenn wir natürliche Zahlen addieren, erhalten wir immer eine natürliche Zahl als Ergebnis. `11 + 37 = 48`, `48` ist wieder eine natürliche Zahl. 5&frasl;9 ist keine natürliche Zahl, es gibt keine natürlichen Zahlen deren Summe 5&frasl;9 ist. Falls du doch welche findet, melde dich, ich gebe dir ein Getränk deiner Wahl aus.
+Die natürlichen Zahlen sind in der Addition abgeschlossen. Das heißt, wenn wir natürliche Zahlen addieren, erhalten wir immer eine natürliche Zahl als Ergebnis. `11 + 37 = 48`, `48` ist wieder eine natürliche Zahl. 5&frasl;9 ist keine natürliche Zahl, es gibt keine natürlichen Zahlen deren Summe 5&frasl;9 ist. Falls du doch welche findest, melde dich, ich gebe dir ein Getränk deiner Wahl aus.
 
 In unserer Formel teilen wir durch `2`, bei dieser Division erhalten wir aber nur eine natürliche Zahl, wenn `n * (n + 1)` gerade ist, bei einer ungeraden Zahl erhielten wir einen Bruch (Streber sagen rationale Zahl) als Ergebnis.
 

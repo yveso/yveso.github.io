@@ -31,3 +31,9 @@
     font-size: .9rem;
     color: dark-grey;
 }
+
+blockquote > p > cite {
+    display: block;
+    text-align: right;
+    font-style: italic;
+}

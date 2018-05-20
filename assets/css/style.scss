@@ -3,13 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.my-nav {
-}
-
 .my-nav ul {
-    padding: 0;
+    padding: 10px 0px;
+    margin: 0;
     display: flex;
     justify-content: space-around;
+    font-size: 1.2em;
 }
 
 .my-nav li {
@@ -19,7 +18,6 @@
 
 .about-main {
     display: flex;
-
 }
 
 .about-main div {

@@ -11,7 +11,7 @@ Das ist eine tolle Sache, führt aber zu Problemen, wenn man über eine eine and
 
 ![Ohne raw Tag]({{ site.url }}/assets/images/blog/2018/jekyll_raw_without.png)
 
-So ist der gerenderte Output wie folgt, Tags und Objekte fehlen in der Darstellung, da die Jinja2 fälschlicherweise als Liquid interpretiert wird.
+So ist der gerenderte Output wie folgt, Tags und Objekte fehlen in der Darstellung, da Jinja2 fälschlicherweise als Liquid interpretiert wird.
 
 ```django
 {% if name %}

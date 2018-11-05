@@ -3,17 +3,47 @@ layout: post
 title: Chili
 ---
 
-Wir leben (leider) in einer Welt voller Vorurteile, latenter Rassismus und Sexismus herrschen vor. Anstatt, dass wir einen Menschen einfach danach beurteilen ob sie cool oder ein Arschloch sind, vollkommen unabhängig welcher Herkunft, welches Geschlechts, welcher Religion sie sind, müssen Menschen aufgrund eines angeblich nicht optimalen Merkmals immer noch Nachteile erleiden. Verdammt, Männer die für die absolute Gleichberechtigung einstehen, bezeichnen sich selbst als Feministen, obwohl es eigentlich eine Selbstverständlichkeit sein sollte. Überträgt man dies in den Sport, wäre die Aussage "Ich bin Anhänger von Mannschaft A, ich will, dass das Spiel unentschieden endet. Das ist total verrückt, das ist aber auch irgendwie sehr traurig.
+Haus bauen, Baum pflanzen, Surfen lernen, [Enter your thing]. Man kennt diese Listen und, junge junge, sind die Listen Quatsch. Das einzig wichtige, was man im Leben tun sollte, ist sich ein eigenes Chilli Rezept zulegen. Hackfleisch, Tomaten, Bohnen und Gewürzmischung kann okay sein, aber eben nur okay, niemals gut.
 
-Und trotzdem, die Welt ist nunmal voller Widersprüche, gibt es ein Geschlechter-Stereotyp für welches ich ein leidenschaftlicher Anhänger bin: *Jeder Mann sollte sein eigenes Chili Rezept haben.*
+Hier ist mein Rezept, in der aktuellen Evolutionsstufe. Der Schwierigkeitsgrad ist relativ einfach, man benötigt nur zwei Dinge:
 
-Chili (und ja, ich lasse das "con carne" bewusst weg) ist Soulfood, es streichelt deine Seele in dunklen Stunden, es macht aber auch schöne Momente noch heller. Chili ist Slow Food. Du und deine Mahlzeit werdet eine sehr intime Beziehung eingehen, das braucht Zeit. Wer für ein Chili zur Fertigmischung greift, hat es entweder nicht verstanden oder ist ein schlechter Mensch. Es ist durchaus bezeichnend für unsere Gesellschaft, dass Fertigmischungen noch nicht vom Gerichtshof für Menschenrechte verboten wurde, der Papst hat sich auch noch nicht ablehnend geäußert...
+* Ein wenig Gespür für Gewürze/Schärfe
+* Geduld, 90 Minuten dauern 90 Minuten und diese Zeitspanne erleben wir desöfteren. Slowfood is Soulfood.
+
+Dieses Rezept ist Hackfleischfrei, als Fleisch gibt es Rindergulasch (wird sehr zart) und Speck (wird fast zerkocht). Die Farbe ist braun, nicht rot. Die Konsistenz ist gebunden, fast schlotzig. Schärfegrad ist nichts für Kinder, allerdings versuche ich eher das Aroma (und eine angenehme Hitzeentwicklung im Rachen) zu erhalten und keine Mutproben-Schärfe herzustellen, dafür sind wir zu alt.
+
+Da sich ein Rezept wie eine Geschichte lesen sollte, gibt es die Zutatenliste am Ende, um Spoiler zu vermeiden. Sollten sich beim Nachkochen die genannten Zwischeneindrücke nicht decken, so liegt das fast immer daran, dass die 90 Minuten Regel nicht eingehalten wurde, bzw sollten sich alle Effekte mit Erhöhung der Kochzeiten erzielen lassen.
+
 <!--more-->
 
-Rezepte sollten sich, in my humble opinion, wie eine Geschichte lesen. Sie sollen den Leser emotional ergreifen, ihn zu Ausrufen wie "Was für eine grandiose Idee", aber auch "Ich glaube in diesem Punkt irrst du dich" bewegen. Wie jede gute Geschichte sollte ein Rezept mit Überraschungen aufwarten. Daher verstehe ich die übliche Gliederung mit vorangestellter Zutatenliste nicht. Das ist wie ein Spoiler. Ich gebe diese Liste aber am Ende des Textes wieder, ich schreibe diesen Text ja auch für mich und eine solche Liste macht das Nachkochen, aber auch das Nachvollziehen, dann doch ein kleines bisschen einfacher.
+## Phase 1
 
-## Mein Rezept.
+Man schneide die Knoblauchzehen und ein paar Schalotten (in Ringe) klein. Die Baconstrips der Länge nach fünfteln. Sollte das Gulasch sehr groß geschnitten sein, nochmals teilen.
 
-Carne ist spanisch für Schweinefleisch (?????????????????????). Mein Chili benutzt(?) aber hauptsächlich Rinderfleisch, daher spreche ich von *Chili*, nicht von *Chili con carne*. Wir benötigen für mein Chili Rindergulasch, denn Hackfleisch ist für Burger. Das soll die Burger nicht disrespektieren (???), aber Burger sind nunmal kein Chili, also nehme ich kein Hackfleisch. Das Gulasch ist für unsere Zwecke ein wenig zu groß geschnitten, daher zerteilen wir jedes Stück noch einmal in zwei Hälften. Ganz ohne Schweinefleisch geht es auch nicht, aber wir benötigen Schweinefleisch in seiner heiligsten Form: Bacon. Den zerkleinern wir auch in kleine Stücke/Streifen.
+In einem großen Topf alles mit etwas Öl und einem EL Tomatenmark scharf anbraten. Mit etwas Salz und Pfeffer würzen. Dann die Tomaten, nochmals Tomatenmark, Zucker und die Chilis (die kleineren in Ringen, die Habaneros in Hälften und entkernt) hinzugeben. Umrühren und zum Kochen bringen. Danach 90 Minuten mit halb aufgelegtem Deckel köcheln lassen, alle 10-15 Minuten umrühren. Sollte Langeweile aufkommen, so kann man die Tomaten beiläufig grob zerkleinern. Dies ist allerdings die einzige Ungeduldigkeit, welche erlaubt ist.
 
-Während dessen erhitzen wir in einem großen Topf etwas Öl oder Fett.
+Nach diesen 90 Minuten sollte sich die Menge im Topf sichtbar reduziert haben. Es ist noch recht flüssig und die Schärfe ist noch aggressiv, es darf in diesem Moment noch sehr oder auch zu scharf erscheinen. Das Fleisch ist noch ziemlich fest.
+
+## Phase 2
+
+Das Schwarzbier aus dem Kühlschrank nehmen. Auch wenn Schwarzbier kein Lieblingsbier sein sollte, hat sich diese Zutat über die Jahre bewährt. Das Bier bringt die richtige Farbe und hat einen intensiveren Eigengeschmack, als andere Sorten. Ich kann es nicht beweisen, aber ich bilde mir ein, dass die Kohlensäure einen positiven Effekt hat. Daher sind Kohlensäureärmere Dunkelbiere, zum Beispiel die aus Irland, nicht für dieses Rezept brauchbar.
+
+Nach Augenmaß schüttet man nun etwas über 0,33 Liter des Bieres in den Topf. Dieses Delta ist wichtig, daher sind auch 0,33l Flaschen unbrauchbar. Das restliche Bier wird dann getrunken. Da das Bierteilen zu den größten Gesten, zu denen ein Mensch fähig ist, zählt, weiß das Chili dieses zu schätzen und quittiert die Geste mit ewiger Freundschaft.
+
+Nachdem der Bund also besiegelt wurde, lässt man es weitere 90 Minuten weiterköcheln (halber Deckel). Nach dieser Zeit sollte die zugegossene Flüssigkeit mengenmäßig wieder verschwunden sein (mindestens). Die Konsistenz sollte dicker erscheinen. Die Schärfe ist weniger aggressiv (vielleicht sind aber auch die Geschmacksnerven immer noch von der letzten Probe betäubt). Bei der Fleischprobe ist das Fleisch deutlich mürber.
+
+## Zutaten
+
+* 2 Knoblauchzehen
+* 3-4 größere Schalotten
+* 300g Baconstrips
+* 500g Rindergulasch
+* 3 Dosen (800x Gramm) geschälte Tomaten
+* 5 Chilis, Größe und Schärfe Kategorie Thai Chili
+* 2 Habaneros
+* 1 0,5l Flasche Schwarzbier, gekühlt.
+
+* EL Öl
+* 3 EL Tomatenmark
+* 2 EL brauner Kandiszucker
+* Salz & Pfeffer

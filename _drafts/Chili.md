@@ -3,12 +3,12 @@ layout: post
 title: Chili
 ---
 
-Haus bauen, Baum pflanzen, Surfen lernen, [Enter your thing]. Man kennt diese Listen und, junge junge, sind die Listen Quatsch. Das einzig wichtige, was man im Leben tun sollte, ist sich ein eigenes Chilli Rezept zulegen. Hackfleisch, Tomaten, Bohnen und Gewürzmischung kann okay sein, aber eben nur okay, niemals gut.
+Haus bauen, Baum pflanzen, Surfen lernen, [Enter your thing]. Man kennt diese Listen und jeder weiß, dass dieser Listen grober Unfug sind. Das einzig Wichtige, was man im Leben tun sollte, ist sich ein eigenes Chilli Rezept zulegen. Hackfleisch, Tomaten, Bohnen und Gewürzmischung kann okay sein, aber eben nur okay, niemals gut.
 
 Hier ist mein Rezept, in der aktuellen Evolutionsstufe. Der Schwierigkeitsgrad ist relativ einfach, man benötigt nur zwei Dinge:
 
 * Ein wenig Gespür für Gewürze/Schärfe
-* Geduld, 90 Minuten dauern 90 Minuten und diese Zeitspanne erleben wir desöfteren. Slowfood is Soulfood.
+* Geduld, 90 Minuten dauern 90 Minuten. Keine Abkürzungen.
 
 Dieses Rezept ist Hackfleischfrei, als Fleisch gibt es Rindergulasch (wird sehr zart) und Speck (wird fast zerkocht). Die Farbe ist braun, nicht rot. Die Konsistenz ist gebunden, fast schlotzig. Schärfegrad ist nichts für Kinder, allerdings versuche ich eher das Aroma (und eine angenehme Hitzeentwicklung im Rachen) zu erhalten und keine Mutproben-Schärfe herzustellen, dafür sind wir zu alt.
 
@@ -36,7 +36,7 @@ Nachdem der Bund also besiegelt wurde, lässt man es weitere 90 Minuten weiterk�
 
 * 2 Knoblauchzehen
 * 3-4 größere Schalotten
-* 300g Baconstrips
+* 300g Bacon
 * 500g Rindergulasch
 * 3 Dosen (800x Gramm) geschälte Tomaten
 * 5 Chilis, Größe und Schärfe Kategorie Thai Chili

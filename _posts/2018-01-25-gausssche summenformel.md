@@ -9,7 +9,7 @@ Der Legende nach wurde diese Formel von einem kleinen Jungen namens Carl Friedri
 
 Wer mit dem Namen Carl Friedrich Gauß nichts anfangen kann, der kennt wahrscheinlich trotzdem sein Gesicht, da es den letzten Zehn Mark Schein zierte. Somit ergibt sich automatisch eine Assoziation zu Taschengeld. Man muss sich daher nicht weiter mit seinem Werk beschäftigen, um zu erkennen, dass er ein flyer Dude war (die Beschäftigung mit seinem Werk lohnt sich aber trotzdem).
 
-![Zehn Mark Schein]({{ site.url }}/assets/images/blog/2018/banknote_10_deutsche_mark.jpg)
+![Zehn Mark Schein]({{ site.baseurl }}/assets/images/blog/2018/banknote_10_deutsche_mark.jpg)
 
 {:.image-caption}
 *C.F.G. rockt den Beanie! Bildquelle: Deutsche Bundesbank, Frankfurt am Main*

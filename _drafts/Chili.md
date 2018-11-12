@@ -3,7 +3,7 @@ layout: post
 title: Chili
 ---
 
-Haus bauen, Baum pflanzen, Surfen lernen, [Enter your thing]. Man kennt diese Listen und jeder weiß, dass dieser Listen grober Unfug sind. Das einzig Wichtige, was man im Leben tun sollte, ist sich ein eigenes Chilli Rezept zulegen. Hackfleisch, Tomaten, Bohnen und Gewürzmischung kann okay sein, aber eben nur okay, niemals gut.
+Haus bauen, Baum pflanzen, Surfen lernen, [Enter your thing]. Man kennt diese Listen und jeder weiß, dass dieser Listen grober Unfug sind. Das einzig Wichtige, was man im Leben tun sollte, ist sich ein eigenes Chili Rezept zulegen. Hackfleisch, Tomaten, Bohnen und Gewürzmischung kann okay sein, aber eben nur okay, niemals gut.
 
 Hier ist mein Rezept, in der aktuellen Evolutionsstufe. Der Schwierigkeitsgrad ist relativ einfach, man benötigt nur zwei Dinge:
 
@@ -36,11 +36,17 @@ Nachdem der Bund also besiegelt wurde, lässt man es weitere 90 Minuten weiterk�
 
 Die Bohnendosen öffnen und nur etwas abschütten. Die Flüssigkeit ist stark Stärkehaltig (no pun intendend), was zur Bindung beiträgt. Daher darf sie mit in den Topf. Nun beginnt die dritte 90 Minuten Köchel- und Rührphase. Die Bohnen sind etwas sensibler, daher wird ab jetzt etwas zärtlicher gerührt. Da die Bohnen gerne am Boden anhängen, die Rührfrequenz erhöhen und darauf achten.
 
-Nach dieser Phase sollte das Fleisch "pull-bar" (pull wie in Pulled Pork) sein. Die Schärfe darf noch (knapp) über dem gewünschten Grad liegen. Die Konsistenz ist gut angedickt. Sollte es noch sehr flüssig sein, kann man etwas Stärke an- und einrühren. Alternativ eine kleine Dose Mais (mit Flüssigkeit) in den Topf geben und ein paar Minuten weiterköcheln lassen. Der Mais bringt geschmacklich nichts, ist aber auch Stärkehaltig, außerdem ist es ein Farbtupfer.
+Nach dieser Phase sollte das Fleisch "pull-bar" (pull wie in Pulled Pork) sein. Die Schärfe darf noch (knapp) über dem gewünschten Grad liegen. Die Konsistenz ist gut angedickt. Sollte es noch sehr flüssig sein, kann man etwas Stärke an- und einrühren. Alternativ eine kleine Dose Mais (mit Flüssigkeit) in den Topf geben und ein paar (15-30) Minuten weiterköcheln lassen. Der Mais bringt geschmacklich nichts, ist aber auch Stärkehaltig, außerdem ist es ein Farbtupfer.
 
 # Phase 4
 
-Das Finish
+Es beginnt die letzte Phase und diese ist sogar deutlich kürzer. Als nächstes wird Honig in den Topf gegeben. Die Menge ist abhängig vom Unterschied zwischen aktueller Schärfe im Topf und gewünschter Endschärfe, es pendelt zwischen einem und "mehreren" Esslöffeln, den Honig unterrühren und weiter köcheln lassen.
+
+Die Schokolade grob zerkleinern (bei größeren Rippen, diese halbieren) und ebenfalls in den Topf geben. Dann unter ständigem Rühren die Schokolade für grob 10 Minuten einschmelzen lassen.
+
+Zack fertig: Chili!
+
+Als Beilage gibt es Baguette oder Reis. Sollte das Chili immer noch sehr scharf sein, erweist sich ein Kleks Schmand als äußerst nützlich.
 
 ## Zutaten
 
@@ -53,8 +59,12 @@ Das Finish
 * 2 Habaneros
 * 1 0,5l Flasche Schwarzbier, gekühlt
 * 3 Dosen (400x Gramm) Kidneybohnen
+* 100g dunkle Schokolade
+
+Sonstiges
 
 * EL Öl
 * 3 EL Tomatenmark
 * 2 EL brauner Kandiszucker
 * Salz & Pfeffer
+* 1-x EL Honig

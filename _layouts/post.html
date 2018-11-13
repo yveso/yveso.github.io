@@ -2,32 +2,19 @@
 layout: default
 ---
 
+<small>
+  {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
+  {% if page.last_updated %}
+    , zuletzt geändert am
+    <strong>
+      {{ page.last_updated | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
+    </strong>
+  {% endif %}
+</small>
+
 <h1>{{ page.title }}</h1>
 
-{% if page.date %}
-<p>
-    Veröffentlicht von
-    <strong>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author }}
-    {% endif %}
-    </strong>
-    am
-    <strong>
-    {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
-    </strong>
-    {% if page.last_updated %}
-        , zuletzt geändert am
-        <strong>
-        {{ page.last_updated | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
-        </strong>
-    {% endif %}
-</p>
-{% endif %}
+<p class="view">von <strong>{{ page.author | default: site.author }}</strong></p>
 
-<div class="post">
-{{ content }}
-</div>
+{{content}}
 

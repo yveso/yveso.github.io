@@ -2,32 +2,23 @@
 layout: default
 ---
 
-<div class="posts">
+<div>
     {% for post in site.posts %}
-        <article class="post">
+        <article>
+
+            <small>
+                {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
+            </small>
 
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-            <p>
-                <strong>
-                {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace: "October","Oktober" | replace:"December","Dezember" }}
-                </strong>
-                von
-                <strong>
-                    {% if post.author %}
-                        {{ post.author }}
-                    {% else %}
-                        {{ site.author }}
-                    {% endif %}
-                </strong>
-            </p>
-
-            <div class="entry">
+            <div>
                 {{ post.excerpt }}
             </div>
 
-          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Zum Artikel</a>
+          <a href="{{ site.baseurl }}{{ post.url }}">Zum Artikel</a>
         </article>
         <hr>
+        <br>
     {% endfor %}
 </div>

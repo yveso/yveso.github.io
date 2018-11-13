@@ -3,19 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.my-nav ul {
-    padding: 10px 0px;
-    margin: 0;
-    display: flex;
-    justify-content: space-around;
-    font-size: 1.2em;
-}
-
-.my-nav li {
-    list-style-type: none;
-    flex: 1 1 auto;
-}
-
 .about-main {
     display: flex;
 }

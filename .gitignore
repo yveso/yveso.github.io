@@ -1,0 +1,15 @@
+# --- Quarto ---
+/.quarto/
+/_site/
+/_freeze/
+/site_libs/
+*_files/
+
+# --- Python / uv ---
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.jupyter_cache/
+.pytest_cache/
